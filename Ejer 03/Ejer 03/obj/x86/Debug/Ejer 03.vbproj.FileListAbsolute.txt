@@ -1,0 +1,12 @@
+C:\Users\agestion\AppData\Local\Temporary Projects\Ejer 03\obj\x86\Debug\Ejer_03.FrmInicio.resources
+C:\Users\agestion\AppData\Local\Temporary Projects\Ejer 03\obj\x86\Debug\Ejer_03.Resources.resources
+C:\Users\agestion\AppData\Local\Temporary Projects\Ejer 03\obj\x86\Debug\Ejer 03.vbproj.GenerateResource.Cache
+C:\Users\agestion\AppData\Local\Temporary Projects\Ejer 03\bin\Debug\Ejer 03.exe
+C:\Users\agestion\AppData\Local\Temporary Projects\Ejer 03\bin\Debug\Ejer 03.pdb
+C:\Users\agestion\AppData\Local\Temporary Projects\Ejer 03\bin\Debug\Ejer 03.xml
+C:\Users\agestion\AppData\Local\Temporary Projects\Ejer 03\obj\x86\Debug\Ejer 03.exe
+C:\Users\agestion\AppData\Local\Temporary Projects\Ejer 03\obj\x86\Debug\Ejer 03.xml
+C:\Users\agestion\AppData\Local\Temporary Projects\Ejer 03\obj\x86\Debug\Ejer 03.pdb
+C:\Users\agestion\Desktop\Ejer 03\Ejer 03\Ejer 03\obj\x86\Debug\Ejer 03.exe
+C:\Users\agestion\Desktop\Ejer 03\Ejer 03\Ejer 03\obj\x86\Debug\Ejer 03.xml
+C:\Users\agestion\Desktop\Ejer 03\Ejer 03\Ejer 03\obj\x86\Debug\Ejer 03.pdb
