@@ -1,0 +1,18 @@
+F:\College\POO\TP 6 Ejercicios\TP 6 Ejercicios\bin\Debug\TP 6 Ejercicios.exe
+F:\College\POO\TP 6 Ejercicios\TP 6 Ejercicios\bin\Debug\TP 6 Ejercicios.pdb
+F:\College\POO\TP 6 Ejercicios\TP 6 Ejercicios\bin\Debug\TP 6 Ejercicios.xml
+F:\College\POO\TP 6 Ejercicios\TP 6 Ejercicios\obj\x86\Debug\TP_6_Ejercicios.Form1.resources
+F:\College\POO\TP 6 Ejercicios\TP 6 Ejercicios\obj\x86\Debug\TP_6_Ejercicios.Resources.resources
+F:\College\POO\TP 6 Ejercicios\TP 6 Ejercicios\obj\x86\Debug\TP 6 Ejercicios.vbproj.GenerateResource.Cache
+F:\College\POO\TP 6 Ejercicios\TP 6 Ejercicios\obj\x86\Debug\TP 6 Ejercicios.exe
+F:\College\POO\TP 6 Ejercicios\TP 6 Ejercicios\obj\x86\Debug\TP 6 Ejercicios.xml
+F:\College\POO\TP 6 Ejercicios\TP 6 Ejercicios\obj\x86\Debug\TP 6 Ejercicios.pdb
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 3\TP 6 Ejercicios\obj\x86\Debug\TP 6 Ejercicios.exe
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 3\TP 6 Ejercicios\obj\x86\Debug\TP 6 Ejercicios.xml
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 3\TP 6 Ejercicios\obj\x86\Debug\TP 6 Ejercicios.pdb
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 3\TP 6 Ejercicios\bin\Debug\TP 6 Ejercicios.exe
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 3\TP 6 Ejercicios\bin\Debug\TP 6 Ejercicios.pdb
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 3\TP 6 Ejercicios\bin\Debug\TP 6 Ejercicios.xml
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 3\TP 6 Ejercicios\obj\x86\Debug\TP_6_Ejercicios.Form1.resources
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 3\TP 6 Ejercicios\obj\x86\Debug\TP_6_Ejercicios.Resources.resources
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 3\TP 6 Ejercicios\obj\x86\Debug\TP 6 Ejercicios.vbproj.GenerateResource.Cache

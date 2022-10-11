@@ -1,0 +1,9 @@
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 4\TP 6 Ejercicios 4\bin\Debug\TP 6 Ejercicios 4.exe
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 4\TP 6 Ejercicios 4\bin\Debug\TP 6 Ejercicios 4.pdb
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 4\TP 6 Ejercicios 4\bin\Debug\TP 6 Ejercicios 4.xml
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 4\TP 6 Ejercicios 4\obj\x86\Debug\TP_6_Ejercicios_4.Form1.resources
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 4\TP 6 Ejercicios 4\obj\x86\Debug\TP_6_Ejercicios_4.Resources.resources
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 4\TP 6 Ejercicios 4\obj\x86\Debug\TP 6 Ejercicios 4.vbproj.GenerateResource.Cache
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 4\TP 6 Ejercicios 4\obj\x86\Debug\TP 6 Ejercicios 4.exe
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 4\TP 6 Ejercicios 4\obj\x86\Debug\TP 6 Ejercicios 4.xml
+F:\College\POO\6 Ejercicios Agüero\Ejercicio 4\TP 6 Ejercicios 4\obj\x86\Debug\TP 6 Ejercicios 4.pdb
