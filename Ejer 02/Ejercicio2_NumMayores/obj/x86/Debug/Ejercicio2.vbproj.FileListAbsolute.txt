@@ -1,0 +1,3 @@
+C:\Users\Franco\Desktop\POO\Ejercicio2\Ejercicio2_NumMayores\obj\x86\Debug\Ejercicio2_NumMayores.exe
+C:\Users\Franco\Desktop\POO\Ejercicio2\Ejercicio2_NumMayores\obj\x86\Debug\Ejercicio2_NumMayores.xml
+C:\Users\Franco\Desktop\POO\Ejercicio2\Ejercicio2_NumMayores\obj\x86\Debug\Ejercicio2_NumMayores.pdb
